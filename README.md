@@ -314,6 +314,7 @@ Week 12 ：Automations + Review / GitHub / PR + Web/Cloud/CLI 辅助 + 安全
 - OpenClaw：08-多Agent、09-Docker部署、10-安全
 - Codex：CX-09 沙箱安全、CX-10 综合实战、CX-11 双工具协作
 - **双工具协作**：Codex + Claude Code 通过 MCP Server 共享工具链（详见 CX-11）
+- **多工具会话观测**：可用 [agenttrace](https://github.com/luoyuctl/agenttrace) 本地查看 Claude Code、Codex、OpenClaw 等会话的成本、token、耗时和失败情况
 - 长期 Skill 治理：可参考 [SkillClaw](https://github.com/AMAP-ML/SkillClaw)（skill 演化、去重、合并、共享；论文 [arXiv:2604.08377](https://arxiv.org/abs/2604.08377)）
 
 ---
